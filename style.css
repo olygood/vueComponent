@@ -1,1 +1,5 @@
 /*welcome to css*/
+.enveloppe-test{
+    display: flex;
+    border:2px solid black;
+}
